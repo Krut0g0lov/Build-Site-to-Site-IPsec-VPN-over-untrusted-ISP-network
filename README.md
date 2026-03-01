@@ -39,13 +39,16 @@ ESP SHA256-HMAC
 PFS enabled (group14)
 
 📂 Repository Structure
-/configs
-   R1.txt
-   R3.txt
-   ISP.txt
 
+   Config_R1.txt
+   Config_R2_ISP.txt
+   Config_R1.txt
+   Config_D1.txt
+   Config_D3.txt
+
+   
 /topology
-   diagram.png
+   topology.png
    
 🔄 Traffic Encryption ACL
 HQ (R1)
